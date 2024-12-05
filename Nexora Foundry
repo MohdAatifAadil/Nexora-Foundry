@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="WsMgw8nXoEm6fn07LCbT">
-    <mxGraphModel>
+    <mxGraphModel dx="1066" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lGlV4esdCej6lZCGKoWA-1" value="+---------------------------+&#xa;|       User Registration    |  (User Inputs Name, Skills, Interests)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|    Store User in Database  |  (Store Name, Skills, Profile)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;| AI-Powered Team Formation  |  (Match Skills for Projects)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|    Create/Join Project     |  (User Submits/Joins Projects)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|     Mentorship System      |  (AI Suggests Learning Resources)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|  Display Project Marketplace|  (Show All Available Projects)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|   Database &amp; Backend Setup  |  (Store Data, Handle Requests)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|   Frontend Interface Setup |  (User Interface for Interaction)&#xa;+---------------------------+&#xa;           |&#xa;           v&#xa;+---------------------------+&#xa;|       Testing &amp; Deployment |  (Deploy MVP, User Testing)&#xa;+---------------------------+" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="370" height="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
